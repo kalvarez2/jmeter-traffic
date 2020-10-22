@@ -1,2 +1,2 @@
 SERVERNAME,PORT,PATH,BASEDIR,FILEPATH
-localhost,8080,orc/process/simple,JmeterRequest1_small.xml
+10.102.98.47,8443,/,small.xml
