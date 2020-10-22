@@ -1,4 +1,4 @@
-jmeter -n -Jthreads=5 -t NDC_test.jmx -j /Users/cchukka/dump/jmeter.log
+jmeter -n -Jthreads=5 -t simple.jmx -j jmeter.log
 
 threads= number of threads
 

@@ -64,6 +64,10 @@
             <stringProp name="Header.name">Connection</stringProp>
             <stringProp name="Header.value">Keep-Alive</stringProp>
           </elementProp>
+          <elementProp name="" elementType="Header">
+            <stringProp name="Header.name">apikey</stringProp>
+            <stringProp name="Header.value">7B5zIqmRGXmrJTFmKa99vcit</stringProp>
+          </elementProp>
         </collectionProp>
       </HeaderManager>
       <hashTree/>
